@@ -1,0 +1,5 @@
+- Node
+- GraphQL
+- Typescript
+- Apollo-server
+- Prisma
